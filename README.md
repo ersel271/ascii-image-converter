@@ -1,6 +1,6 @@
 # ASCII Image Converter
 
-This project aims to create text-based representations of uploaded images by converting them into ASCII characters. After the user adds the desired image file to the application, the output is saved in a `.txt` file. The user can choose the directory where the file will be saved and the file name.
+This project aims to create text-based representations of uploaded images by converting them into ASCII characters using MATLAB. After the user adds the desired image file to the application, the output is saved in a `.txt` file. The user can choose the directory where the file will be saved and the file name.
 
 ## Program Flow
 
